@@ -1,2 +1,2 @@
-# Role-Based-Access-Control
-implement an authentication system where users can register, log in, and log out securely
+# Role-Based Access Control (RBAC) API
+<h2>A Flask-based API for implementing Role-Based Access Control (RBAC) with user authentication, role management, and permission assignment.</h2>
